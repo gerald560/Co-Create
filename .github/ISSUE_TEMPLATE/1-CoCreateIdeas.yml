@@ -30,13 +30,11 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
+    label: Why do you feel this is important?
+    description: Explain why this is important to you and how many people would benefit from it.
     placeholder: |
-      1. In this environment...
-      2. With this config...
-      3. Run '...'
-      4. See error...
+      1. Its important because...
+      2. It would benefit x number of employees...
   validations:
     required: false
 - type: textarea
