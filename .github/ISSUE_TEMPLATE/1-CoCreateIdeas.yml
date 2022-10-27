@@ -21,7 +21,7 @@ body:
     label: What department are you with?
     options:
       - Customer Servise
-      - Distribution Openation
+      - Distribution Operation
       - Human Resources
       - Audit
       - Information Technology
