@@ -2,7 +2,6 @@ name: 🐞 [Co-Create] Idea Generation
 description: File an idea for the Enterprise Automation Team
 title: "[Co-Create - IDEA] IDEA TITLE"
 labels: ["co-create","idea"]
-assignees: ""
 body:
 - type: textarea
   attributes:
