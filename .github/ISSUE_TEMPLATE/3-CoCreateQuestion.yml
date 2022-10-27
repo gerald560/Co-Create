@@ -17,5 +17,6 @@ body:
       - Pre Job Brief Canvas App
       - eDVIR Canvas App
       - Agent Assist Custom Conenctor
+      - Other
   validations:
     required: true
