@@ -1,7 +1,7 @@
-name: 💡[ALM Accelerator] Feature request
-description: File a feature request for the ALM Accelerator 
-title: "[ALM Accelerator - Feature]: FEATURE TITLE"
-labels: ["alm-accelerator","enhancement"]
+name: 💡[Co-Create] Feature request
+description: File a feature request for the Co-Creation
+title: "[Co-Create]: FEATURE TITLE"
+labels: ["co-create","enhancement"]
 body:
 - type: textarea
   attributes:
