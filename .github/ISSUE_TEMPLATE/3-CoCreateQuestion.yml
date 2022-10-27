@@ -12,17 +12,10 @@ body:
 - type: dropdown
   id: component
   attributes:
-    label: What component is your question about?
+    label: Which product is your question about?
     options:
       - Pre Job Brief Canvas App
       - eDVIR Canvas App
       - Agent Assist Custom Conenctor
-  validations:
-    required: true
-- type: input
-  id: version
-  attributes:
-    label: What solution version are you using?
-    placeholder: "February 2022 or 1.0.1.2033"
   validations:
     required: true
