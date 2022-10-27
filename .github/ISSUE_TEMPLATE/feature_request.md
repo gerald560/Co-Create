@@ -1,33 +1,20 @@
-name: 🚀[Co-Create] Feature request
-description: File a feature request for the Co-Creation
-title: "[Co-Create - Feature]: FEATURE TITLE"
-labels: ["co-create","enhancement"]
-body:
-- type: textarea
-  attributes:
-    label: Is your feature request related to a problem? Please describe.
-    description: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-  validations:
-    required: false
-- type: textarea
-  attributes:
-    label: Describe the solution you'd like
-    description: A clear and concise description of what you want to happen. Please provide as much related information as possible including screenshots, documents, links etc.
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Describe alternatives you've considered
-    description: A clear and concise description of any alternative solutions or features you've considered.
-  validations:
-    required: false
-- type: textarea
-  attributes:
-    label: Additional context?
-    description: |
-      Add any other context or screenshots about the feature request here.
-      
-      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
-  validations:
-    required: false
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
