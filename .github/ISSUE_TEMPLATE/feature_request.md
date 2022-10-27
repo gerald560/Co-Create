@@ -1,14 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'FEATURE TITLE'
 labels: ''
-assignees: ''
-
----
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 body:
 - type: textarea
@@ -34,3 +28,7 @@ body:
     label: Additional context?
     description: |
       Add any other context or screenshots about the feature request here.
+      
+      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  validations:
+    required: false
