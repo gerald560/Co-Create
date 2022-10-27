@@ -1,7 +1,7 @@
-name: 🚀[DTE Co-Creation] Feature request
+name: 🚀[Co-Create] Feature request
 description: File a feature request for the Co-Creation
-title: "[Co Creation - Feature]: FEATURE TITLE"
-labels: ["co-creation","enhancement"]
+title: "[Co-Create - Feature]: FEATURE TITLE"
+labels: ["co-create","enhancement"]
 body:
 - type: textarea
   attributes:
